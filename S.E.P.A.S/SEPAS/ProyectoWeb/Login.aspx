@@ -20,11 +20,11 @@
                        class="bg-white p-5 rounded-5 text-secondary shadow"
                     style="width: 25rem">
                            
-<%--      <div class="d-flex justify-content-center">
+      <div class="d-flex justify-content-center">
           <img src="Assets/image_processing20210525-31447-15d8lag.gif" alt="login-icon"
              style="height: 14rem"/>
          
-              </div>--%>
+              </div>
           <div class="text-center fs-1 fw-bold">S.E.P.A.S</div>
                           
                          
@@ -61,7 +61,7 @@
    </div>
         <div>
             <center></center>
-        <asp:Button ID="BtnIngresar" runat="server" Text="Ingresar" class="btn btn-info text-white w-100 mt-4 fw-semibold shadow-sm"/>
+        <asp:Button ID="BtnIngresar" runat="server" Text="INICIAR SESION" class="btn btn-info text-white w-100 mt-4 fw-semibold shadow-sm"/>
     
             </center>
      </div>
