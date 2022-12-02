@@ -124,3 +124,17 @@ D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\CnSistemas\obj\Debug\CnSistem
 D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\CnSistemas\obj\Debug\CnSistemas.dll
 D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\CnSistemas\obj\Debug\CnSistemas.xml
 D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\CnSistemas\obj\Debug\CnSistemas.pdb
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\bin\Debug\CnSistemas.dll
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\bin\Debug\CnSistemas.pdb
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\bin\Debug\CnSistemas.xml
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\bin\Debug\ServidordeDatosnet.dll
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\bin\Debug\ServidordeDatosnet.pdb
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\bin\Debug\ServidordeDatosnet.xml
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\obj\Debug\CnSistemas.vbproj.AssemblyReference.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\obj\Debug\CnSistemas.Resources.resources
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\obj\Debug\CnSistemas.vbproj.GenerateResource.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\obj\Debug\CnSistemas.vbproj.CoreCompileInputs.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\obj\Debug\CnSistemas.vbproj.CopyComplete
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\obj\Debug\CnSistemas.dll
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\obj\Debug\CnSistemas.xml
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\CnSistemas\obj\Debug\CnSistemas.pdb

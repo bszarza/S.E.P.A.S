@@ -77,3 +77,13 @@ D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\
 D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
 D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
 D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb

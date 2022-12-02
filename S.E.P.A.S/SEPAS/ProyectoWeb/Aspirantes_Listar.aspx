@@ -25,10 +25,7 @@
 
                          <asp:GridView ID="GdvAspirantes" runat="server"  AllowPaging="True" AutoGenerateColumns="False" CssClass="grid aej_all table table-striped table-bordered dt-responsive dataTable no-footer" 
                               PageSize="90" Width="100%" EnableModelValidation="True"   EmptyDataText="No se encontraron Registros.">
-                      <%--  <Columns>  
-
-                 <asp:GridView ID="GdvColores" AutoGenerateColumns="false" CssClass="table table-active table-bordered" runat="server">--%>
-<Columns>
+                      
 
                              <asp:ButtonField   HeaderText="Eliminar"     Text="<i class='fa fa-ban icon-large fa-1x' style='font-size:18px;color:red'></i>" CommandName="Eliminar" />
              
