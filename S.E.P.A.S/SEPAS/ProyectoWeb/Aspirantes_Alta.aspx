@@ -3,7 +3,7 @@
        </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <%--<div style="margin-left:20px">--%>
-           <%-- <img src="Assets/linkedin_banner_image_2.png" width="1300" height="440px"/>--%>
+           <%-- <nndbjshdhcbajndkjAKDHNkhdnjk"/>--%>
  <%--</div>--%>
    <div class="row">
             <div class="col-xs-12">
