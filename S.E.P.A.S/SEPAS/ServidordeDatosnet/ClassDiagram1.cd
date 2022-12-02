@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ServidordeDatosnet.ClaseBaseNet">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAQBAQAAAABCAAQAAAAAAAAAAAEAAAAAAAgEAA=</HashCode>
+      <FileName>ClaseBaseNet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServidordeDatosnet.Servidor">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAACCAAAAAAEAAAEAAAQAAABAAAAAAAAAQAA=</HashCode>
+      <FileName>Servidor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServidordeDatosnet.SQLServer">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="ServidordeDatosnet.Servidor" ManuallyRouted="true">
+      <Path>
+        <Point X="3" Y="1.882" />
+        <Point X="2.906" Y="1.882" />
+        <Point X="2.906" Y="1.048" />
+        <Point X="2.33" Y="1.048" />
+        <Point X="2.33" Y="1.882" />
+        <Point X="2" Y="1.882" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAACAAAAAAAEAAgAAAAQAAAAAAAAAQAAAQAA=</HashCode>
+      <FileName>Sqlserver.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="ServidordeDatosnet.modConexion">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ModConexion.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

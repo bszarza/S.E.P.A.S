@@ -1,0 +1,234 @@
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.xml
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\CnSistemas.dll
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.dll
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\CnSistemas.pdb
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\CnSistemas.xml
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.pdb
+D:\Culpina\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.xml
+D:\Culpina\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbprojAssemblyReference.cache
+D:\Culpina\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+D:\Culpina\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+D:\Culpina\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+D:\Culpina\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+D:\Culpina\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+D:\Culpina\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+D:\Culpina\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.xml
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\CnSistemas.dll
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.dll
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\CnSistemas.pdb
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\CnSistemas.xml
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.pdb
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.xml
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+D:\PROGRAMACION\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.xml
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\CnSistemas.dll
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.dll
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\CnSistemas.pdb
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\CnSistemas.xml
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.pdb
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.xml
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.xml
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\CnSistemas.dll
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\CnSistemas.pdb
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\CnSistemas.xml
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+C:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.xml
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\CnSistemas.dll
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\CnSistemas.pdb
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\CnSistemas.xml
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\RAR-PROYECTOS\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\ProyectoWeb.dll
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\ProyectoWeb.xml
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\CnSistemas.dll
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\CnSistemas.pdb
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\CnSistemas.xml
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\RAR-PROYECTOS\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\ProyectoWeb.xml
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\CnSistemas.dll
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\CnSistemas.pdb
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\CnSistemas.xml
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\AUTOLATINO-ULT-MODIF\ProyectoWeb - copia\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.xml
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.dll
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.pdb
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.xml
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\RAR-PROYECTOS\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.xml
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.dll
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.pdb
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.xml
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\Users\Bruno\OneDrive\CURSO\wordtps\PROYECTOS-VBNET\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.xml
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.dll
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.pdb
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.xml
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\RAR-PROYECTOS\TP-INTEGRADOR-ZARZA\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.xml
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.dll
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.pdb
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.xml
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\Users\laboratorio2\source\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.xml
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.dll
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.dll
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.pdb
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.xml
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.pdb
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.xml
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll.config
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.dll
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.pdb
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ProyectoWeb.xml
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.dll
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.dll
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.pdb
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\CnSistemas.xml
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.pdb
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\bin\ServidordeDatosnet.xml
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.AssemblyReference.cache
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.GenerateResource.cache
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CoreCompileInputs.cache
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.vbproj.CopyComplete
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
