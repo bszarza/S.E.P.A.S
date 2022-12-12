@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
-<aplicaciones>
-	<SEPAS>
-		<connectionstring>
-			Data Source=PC02-CURSO;Initial Catalog=SEPAS_2;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
-		</connectionstring>
-	</SEPAS>
-</aplicaciones>

@@ -1,0 +1,13 @@
+1. creacion de un tabla  25 
+2. creacion de 3 store procedure listar, insertar, eliminar 25
+
+
+
+3. creacion de clase cnegocio  20
+4 creacion de la paginas 30
+a. pagina listar 10
+b.pagina modificar 10
+c.pagina eliminar 10
+
+tiempo estimado para el 100 30 minutos
+

@@ -1,0 +1,147 @@
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.dll
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.xml
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+E:\FSB\PROYECTOS\Radioaficionados VB\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.dll
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.xml
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+C:\Proyectros Web\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.dll
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.xml
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+E:\SILVIA\RadioAficionados\Radiofacionados_VB\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.dll
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.xml
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+E:\ZAPANA\PROYECTOS\CONCURSODX.TEST\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.dll
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.xml
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+E:\SILVIA\RadioAficionados\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.dll
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.xml
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+D:\Proyectos\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.dll
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.xml
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+D:\REPOSITORIOS GIT\ConcursoDx\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.dll
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\log4net.xml
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+D:\REPOSITORIOS GIT\HOY_RADIO_DX_12OCT22\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.AssemblyReference.cache
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+E:\PROYECTOS\SEPAS_Desarrollo\SERVIDORES_DE_DATOS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.AssemblyReference.cache
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+D:\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll.config
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+D:\SEPAS\DIRTICOM\SEPAS\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb

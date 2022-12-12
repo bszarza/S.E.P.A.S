@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--NOMBRE DE PROYECTO.-->
+<Configuracion>
+  <con_str>
+    <User_ID>sa</User_ID>
+    <Initial_Catalog>LITIS_EMBARGOS</Initial_Catalog>
+    <Data_Source>10.201.0.159</Data_Source>
+  </con_str>
+  <Inherits>
+    <valor>'Inherits10</valor>
+    <valor>'Inherits20</valor>
+  </Inherits>
+  <Imports>
+    <valor>Imports System</valor>
+    <valor>Imports System.IO</valor>
+    <valor>Imports System.Text</valor>
+    <valor>Imports System.Data</valor>
+    <valor>Imports System.Data.SqlClient</valor>
+    <valor>Imports System.Data.SqlClient.SqlException</valor>
+    <valor>Imports System.Reflection</valor>
+    <valor>Imports AdNet</valor>
+  </Imports>
+  <Path>
+    <valor>D:\ASDFS</valor>
+  </Path>
+</Configuracion>

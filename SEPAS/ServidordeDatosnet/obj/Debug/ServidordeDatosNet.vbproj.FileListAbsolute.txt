@@ -1,0 +1,99 @@
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\obj\Debug\ResolveAssemblyReference.cache
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.Cache
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+D:\SORAIRE\ServidordeDatosNet\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+D:\Culpina\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbprojAssemblyReference.cache
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+D:\PROGRAMACION\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+D:\CURSO DE AUXILIAR PROGRAMADOR\MATERIA PRROGRAMACION\CLASES SARG 1RO SORAIRE\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+C:\CULPINA\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+C:\RAR-PROYECTOS\ProyectoWeb\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+C:\Users\Mariano\OneDrive\Escritorio\PRUEBABD\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+D:\MiPrimerGit-main\S.E.P.A.S\auto-latino-ultmodif\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+C:\Users\arnol\OneDrive\Documentos\REPOSITORIOS-GIT\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.dll
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.pdb
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\bin\Debug\ServidordeDatosnet.xml
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.AssemblyReference.cache
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.Resources.resources
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.GenerateResource.cache
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosNet.vbproj.CoreCompileInputs.cache
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.dll
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.xml
+C:\Users\38077885\Desktop\SEPAS\S.E.P.A.S\S.E.P.A.S\SEPAS\ServidordeDatosnet\obj\Debug\ServidordeDatosnet.pdb
