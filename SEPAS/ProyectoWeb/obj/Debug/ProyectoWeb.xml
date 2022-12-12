@@ -438,56 +438,56 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </member>
 <member name="F:ProyectoWeb.MasterPager._head">
 <summary>
-Control head.
+head control.
 </summary>
 <remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
 <member name="F:ProyectoWeb.MasterPager._form1">
 <summary>
-Control form1.
+form1 control.
 </summary>
 <remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
 <member name="F:ProyectoWeb.MasterPager._txtUser">
 <summary>
-Control txtUser.
+txtUser control.
 </summary>
 <remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
 <member name="F:ProyectoWeb.MasterPager._lblOpcionMenu">
 <summary>
-Control lblOpcionMenu.
+lblOpcionMenu control.
 </summary>
 <remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
 <member name="F:ProyectoWeb.MasterPager._ContentPlaceHolder1">
 <summary>
-Control ContentPlaceHolder1.
+ContentPlaceHolder1 control.
 </summary>
 <remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
 <member name="F:ProyectoWeb.MasterPager._lblmensaje">
 <summary>
-Control lblmensaje.
+lblmensaje control.
 </summary>
 <remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
 <member name="F:ProyectoWeb.Aspirantes_Listar._DrpCursos">
@@ -686,6 +686,186 @@ Control BtnEliminarColor.
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._DrpPerfil">
+<summary>
+DrpPerfil control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._GdvUsuarios">
+<summary>
+GdvUsuarios control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._TxtNombre">
+<summary>
+TxtNombre control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._TxtApellido">
+<summary>
+TxtApellido control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._TxtDni">
+<summary>
+TxtDni control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._Contrasenia">
+<summary>
+Contrasenia control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._DrpAgregarPerfil">
+<summary>
+DrpAgregarPerfil control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._BtnAgregar">
+<summary>
+BtnAgregar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._txtId">
+<summary>
+txtId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._TxtNombreEditar">
+<summary>
+TxtNombreEditar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._TxtApellidoEditar">
+<summary>
+TxtApellidoEditar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._TxtDniEditar">
+<summary>
+TxtDniEditar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._TxtContrasenia">
+<summary>
+TxtContrasenia control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._DDLPerfilEditar">
+<summary>
+DDLPerfilEditar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._BtnEditarColor">
+<summary>
+BtnEditarColor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._Div5">
+<summary>
+Div5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._lblALIQUIDACION_ELIMINAR">
+<summary>
+lblALIQUIDACION_ELIMINAR control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._ColorEliminar">
+<summary>
+ColorEliminar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._TxtApellidoEliminar">
+<summary>
+TxtApellidoEliminar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ProyectoWeb.Usuarios_Listar._BtnEliminarColor">
+<summary>
+BtnEliminarColor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
 </members>

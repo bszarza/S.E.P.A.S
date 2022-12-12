@@ -1,10 +1,11 @@
-﻿Public Class Usuarios_Listar
+﻿Imports CnSistemas
+Public Class Usuarios_Listar
     Inherits System.Web.UI.Page
 
     'Dim oFiltrado As New ServidorDatosNet_GNA.svr("SEPAS_DES", "Usuarios", "USUARIO")
     Dim oUser As String = 40083172
-    'Dim OAspirantes As New Aspirantes
-    'Dim OCursos As New TipoCursos
+    Dim oUsuarios As New Usuarios
+    Dim OPerfil As New Perfiles
     Dim odDataset As New DataSet
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
@@ -19,7 +20,8 @@
                 'cargoCursos2()
                 'cargoGenero2()
                 'AspirantesFilCurso()
-                prDrpCursos()
+                prDrpPerfil()
+                prDrpAgregarPerfil()
                 'CargarAspirantes()
             End If
 
@@ -46,23 +48,31 @@
     '    DDLGeneroEditar.DataValueField = "ID"
     '    DDLGeneroEditar.DataBind()
     'End Sub
-    Public Sub cargoCursos()
+    'Public Sub cargoCursos()
+    '    Dim oDs As New DataSet
+    '    'oDs = OCursos.EjecutarSp("OT", oUser)
+    '    DDLCurso.DataSource = oDs
+    '    DDLCurso.DataTextField = "Descripcion"
+    '    DDLCurso.DataValueField = "ID"
+    '    DDLCurso.DataBind()
+    'End Sub
+
+
+    Public Sub prDrpPerfil()
         Dim oDs As New DataSet
-        'oDs = OCursos.EjecutarSp("OT", oUser)
-        DDLCurso.DataSource = oDs
-        DDLCurso.DataTextField = "Descripcion"
-        DDLCurso.DataValueField = "ID"
-        DDLCurso.DataBind()
+        oDs = OPerfil.EjecutarSp("OT", oUser)
+        DrpPerfil.DataSource = oDs
+        DrpPerfil.DataTextField = "Descripcion"
+        DrpPerfil.DataValueField = "ID"
+        DrpPerfil.DataBind()
     End Sub
-
-
-    Public Sub prDrpCursos()
+    Public Sub prDrpAgregarPerfil()
         Dim oDs As New DataSet
-        'oDs = OCursos.EjecutarSp("OT", oUser)
-        DrpCursos.DataSource = oDs
-        DrpCursos.DataTextField = "Descripcion"
-        DrpCursos.DataValueField = "ID"
-        DrpCursos.DataBind()
+        oDs = OPerfil.EjecutarSp("OT", oUser)
+        DrpAgregarPerfil.DataSource = oDs
+        DrpAgregarPerfil.DataTextField = "Descripcion"
+        DrpAgregarPerfil.DataValueField = "ID"
+        DrpAgregarPerfil.DataBind()
     End Sub
     'Public Sub CargarAspirantes()
     '    Dim oAspirantes As New Aspirantes
@@ -92,17 +102,17 @@
     'End Sub
     Public Sub CARGARGRILLA()
         Dim oDsGrilla As New DataSet
-        'oDsGrilla = OAspirantes.EjecutarSp("OT", CStr(Session("Usuario")))
-        GdvAspirantes.DataSource = oDsGrilla
-        GdvAspirantes.DataBind()
+        oDsGrilla = oUsuarios.EjecutarSp("OT", CStr(Session("Usuario")))
+        GdvUsuarios.DataSource = oDsGrilla
+        GdvUsuarios.DataBind()
     End Sub
 
-    Private Sub GdvColores_RowCommand(sender As Object, e As GridViewCommandEventArgs) Handles GdvAspirantes.RowCommand
+    Private Sub GdvColores_RowCommand(sender As Object, e As GridViewCommandEventArgs) Handles GdvUsuarios.RowCommand
 
 
         Dim indice As Integer = e.CommandArgument
 
-        Dim row As GridViewRow = GdvAspirantes.Rows(indice)
+        Dim row As GridViewRow = GdvUsuarios.Rows(indice)
         Dim ID As Integer = Convert.ToInt32(CType(row.FindControl("ID"), Label).Text)
 
 
@@ -145,7 +155,8 @@
                     TxtNombreEditar.Text = Convert.ToString(CType(row.FindControl("NOMBRE"), Label).Text)
                     TxtApellidoEditar.Text = Convert.ToString(CType(row.FindControl("APELLIDO"), Label).Text)
                     TxtDniEditar.Text = Convert.ToString(CType(row.FindControl("DNI"), Label).Text)
-                    TxtCeEditar.Text = Convert.ToString(CType(row.FindControl("CE"), Label).Text)
+                    'TxtContrasenia.Text = Convert.ToString(CType(row.FindControl("Contrasenia"), Label).Text)
+                    'DrpAgregarPerfil.Text = Convert.ToString(CType(row.FindControl("IdPerfil"), Label).Text)
 
                     'TxtdescripcionColorEditar.Text = Convert.ToString(CType(row.FindControl("Cantidad_Ingreso"), Label).Text)
                     'TxtCantidadIngreso.Text = Convert.ToString(CType(row.FindControl("Precio_Compra"), Label).Text)
@@ -212,7 +223,7 @@
 
 
         End Try
-        Response.Redirect("Aspirantes_listar.aspx")
+        Response.Redirect("Usuarios_listar.aspx")
 
     End Sub
 
@@ -220,14 +231,15 @@
 
 
         Try
-            If TxtNombre.Text = "" Or TxtApellido.Text = "" Or TxtDni.Text = "" Or TxtCe.Text = "" Then
+            If TxtNombre.Text = "" Or TxtApellido.Text = "" Or TxtDni.Text = "" Or DrpAgregarPerfil.SelectedValue = "" Then
                 MsgBox("Campos vacios")
-            ElseIf IsNumeric(TxtNombre.Text) = True Or IsNumeric(TxtApellido.Text) = True Or IsNumeric(TxtDni.Text) = False Or IsNumeric(TxtCe.Text) = False Then
+            ElseIf IsNumeric(TxtNombre.Text) = True Or IsNumeric(TxtApellido.Text) = True Or IsNumeric(TxtDni.Text) = False Or IsNumeric(DrpAgregarPerfil.Text) = False Then
                 MsgBox("Datos incorretos")
             Else
-                'OAspirantes.EjecutarSp("IN", Session("usuarios"), TxtNombre.Text, TxtApellido.Text, TxtDni.Text, TxtCe.Text, DDLGenero.SelectedValue, DDLCurso.SelectedValue)
+                oUsuarios.EjecutarSp("IN", oUser, TxtNombre.Text, TxtApellido.Text, TxtDni.Text, TxtContrasenia.Text, DrpAgregarPerfil.SelectedValue, Session("usuarios"))
                 ClientScript.RegisterStartupScript(Me.GetType, "msg", "alert('se agrego Correctamente');", True)
                 CARGARGRILLA()
+                prDrpAgregarPerfil()
             End If
 
 
@@ -238,13 +250,13 @@
 
 
         End Try
-        Response.Redirect("Aspirantes_listar.aspx")
+        Response.Redirect("Usuarios_listar.aspx")
 
 
     End Sub
 
-    Private Sub DDLAspirantesFil_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DrpCursos.SelectedIndexChanged
-        'AspirantesFilCurso()
+    Private Sub DDLAspirantesFil_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DrpPerfil.SelectedIndexChanged
+        prDrpPerfil()
     End Sub
 
 End Class

@@ -14,10 +14,10 @@
                                 <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="fnAgregar()">Agregar</button>                                
                         </div>
                         <div class="form-group">
-                                <label>Filtrar por Curso</label>
-                                <asp:DropDownList ID="DrpCursos" runat="server" AutoPostBack="true" CssClass="btn btn-primary dropdown-toggle"></asp:DropDownList>
+                                <label>Filtrar por Perfil</label>
+                                <asp:DropDownList ID="DrpPerfil" runat="server" AutoPostBack="true" CssClass="btn btn-primary dropdown-toggle"></asp:DropDownList>
                         </div>
-                        <asp:GridView ID="GdvAspirantes" runat="server"  AllowPaging="True" AutoGenerateColumns="False" CssClass="grid aej_all table table-striped table-bordered dt-responsive dataTable no-footer" 
+                        <asp:GridView ID="GdvUsuarios" runat="server"  AllowPaging="True" AutoGenerateColumns="False" CssClass="grid aej_all table table-striped table-bordered dt-responsive dataTable no-footer" 
                               PageSize="90" Width="100%" EnableModelValidation="True"   EmptyDataText="No se encontraron Registros.">
                                 <Columns>
                                     <asp:ButtonField   HeaderText="Eliminar"     Text="<i class='fa fa-ban icon-large fa-1x' style='font-size:18px;color:red'></i>" CommandName="Eliminar" />             
@@ -62,24 +62,15 @@
                                                     <asp:Label ID="DNI" runat="server" Text='<%# Eval("Dni") %>' />
                                             </ItemTemplate>
                                     </asp:TemplateField>
+                                   
                          
-                                    <asp:TemplateField Visible="TRUE" HeaderText="CE">
+                                    <asp:TemplateField Visible="TRUE" HeaderText="Descripcion">
                                             <ItemTemplate>
-                                                     <asp:Label ID="CE" runat="server" Text='<%# Eval("CE") %>' />
+                                                     <asp:Label ID="Perfil" runat="server" Text='<%# Eval("IdPerfil") %>' />
                                             </ItemTemplate>
                                     </asp:TemplateField>
 
-                                    <asp:TemplateField Visible="TRUE" HeaderText="Genero">
-                                            <ItemTemplate>
-                                                    <asp:Label ID="GENERO" runat="server" Text='<%# Eval("Genero") %>' />
-                                            </ItemTemplate>
-                                    </asp:TemplateField>
-                         
-                                    <asp:TemplateField Visible="TRUE" HeaderText="Curso">
-                                            <ItemTemplate>
-                                                     <asp:Label ID="CURSO" runat="server" Text='<%# Eval("Curso") %>' />
-                                            </ItemTemplate>
-                                    </asp:TemplateField>
+                                    
 
                                     <%--<asp:TemplateField Visible="TRUE" HeaderText="Cantidad">
                                             <ItemTemplate>
@@ -124,17 +115,18 @@
                         <asp:TextBox ID="TxtDni" runat="server" Text="" CssClass="form-control"></asp:TextBox>
                     </div>
                      <div class="form-group">
-                        <label>CE</label>     
-                        <asp:TextBox ID="TxtCe" runat="server" Text="" CssClass="form-control"></asp:TextBox>
+                        <label>Contrasenia</label>
+                        <asp:TextBox ID="Contrasenia" runat="server" Text="" CssClass="form-control"></asp:TextBox>
                     </div>
+                     
                      <div class="form-group">
-                        <label>Genero</label>
-                        <asp:DropDownList ID="DDLGenero" runat="server" CssClass="btn btn-info dropdown-toggle"></asp:DropDownList>
+                        <label>Perfil</label>
+                        <asp:DropDownList ID="DrpAgregarPerfil" runat="server" CssClass="btn btn-info dropdown-toggle"></asp:DropDownList>
                     </div>
-                     <div class="form-group">
+                    <%-- <div class="form-group">
                         <label>Curso</label>
                       <asp:DropDownList ID="DDLCurso" runat="server" CssClass="btn btn-info dropdown-toggle"></asp:DropDownList>
-                    </div>
+                    </div>--%>
                   
                 </div>
                 <div class="modal-footer">
@@ -175,21 +167,22 @@
                         <label>Dni</label>
                         <asp:TextBox ID="TxtDniEditar" runat="server" Text="" CssClass="form-control"></asp:TextBox>
                     </div>
-                     <div class="form-group">
-                        <label>CE</label>
-                        <asp:TextBox ID="TxtCeEditar" runat="server" Text="" CssClass="form-control"></asp:TextBox>
+                        <div class="form-group">
+                        <label>Contrasenia</label>
+                        <asp:TextBox ID="TxtContrasenia" runat="server" Text="" CssClass="form-control"></asp:TextBox>
                     </div>
+                     
                      <div class="form-group">
-                        <label>Genero</label>
-                        <asp:DropDownList ID="DDLGeneroEditar" runat="server" CssClass="btn btn-info dropdown-toggle"></asp:DropDownList>
+                        <label>Perfil</label>
+                        <asp:DropDownList ID="DDLPerfilEditar" runat="server" CssClass="btn btn-info dropdown-toggle"></asp:DropDownList>
 
-                        <%--<asp:TextBox ID="TextBox4" runat="server" Text="" CssClass="form-control"></asp:TextBox>--%>
-                    </div>
-                     <div class="form-group">
+                        <%--<asp:TextBox ID="TextBox4" runat="server" Text="" CssClass="form-control"></asp:TextBox>
+                    <%--</div>--%>
+                    <%-- <div class="form-group">
                         <label>Curso</label>
-                      <asp:DropDownList ID="DDLCursoEditar" runat="server" CssClass="btn btn-info dropdown-toggle"></asp:DropDownList>
+                      <asp:DropDownList ID="DDLCursoEditar" runat="server" CssClass="btn btn-info dropdown-toggle"></asp:DropDownList>--%>
 
-                    </div>
+                    <%--</div>--%>--%>
                   
                 </div>
                    
